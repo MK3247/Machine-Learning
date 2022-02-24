@@ -6,4 +6,4 @@
 4. Random Forest Classifier 
 5. K Fold Cross Validation
 6. Splitting Data into Training set and Test set
-7. Dummy Variables & Hot Encoding
+7. Dummy Variables & One Hot Encoding
