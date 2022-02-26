@@ -9,3 +9,4 @@
 7. Dummy Variables & One Hot Encoding
 8. Naive Bayes
 9. K Means Clustering Algorithm
+10. Hyperparameter Tuning
