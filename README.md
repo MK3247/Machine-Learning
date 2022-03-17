@@ -10,3 +10,4 @@
 8. Naive Bayes
 9. K Means Clustering Algorithm
 10. Hyperparameter Tuning
+11. Principal Component Analysis
